@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Brown",
+    "category": "Singer",
+    "city": "Portland, OR",
+    "fee": "$600-1200",
+    "submittedAt": "2024-01-15T10:30:00Z",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "name": "Lisa Garcia",
+    "category": "Dancer",
+    "city": "Denver, CO",
+    "fee": "$400-800",
+    "submittedAt": "2024-01-14T14:20:00Z",
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "name": "Robert Chen",
+    "category": "DJ",
+    "city": "Phoenix, AZ",
+    "fee": "$300-600",
+    "submittedAt": "2024-01-13T09:15:00Z",
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "name": "Amanda Taylor",
+    "category": "Speaker",
+    "city": "Boston, MA",
+    "fee": "$2000-4000",
+    "submittedAt": "2024-01-12T16:45:00Z",
+    "status": "reviewed"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Mendez",
+    "category": "Singer",
+    "city": "Las Vegas, NV",
+    "fee": "$800-1500",
+    "submittedAt": "2024-01-11T11:30:00Z",
+    "status": "approved"
+  }
+]
